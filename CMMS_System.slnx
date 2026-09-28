@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CMMS.Business/CMMS.Business.csproj" />
+  <Project Path="CMMS.DataAccess/CMMS.DataAccess.csproj" />
+  <Project Path="CMMS.Entities/CMMS.Entities.csproj" />
+  <Project Path="CMMS.UI/CMMS.UI.csproj" />
+</Solution>
